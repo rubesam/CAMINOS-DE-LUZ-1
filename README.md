@@ -1,2 +1,2 @@
-# CAMINOS-DE-LUZ-1
-TE ACOMPAÑAMOS
+# Proyecto Funerales Caminos de Luz
+Proyecto base listo para Vercel.
